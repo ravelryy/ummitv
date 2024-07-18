@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['https://www.qodr.net/'],
+    'allowed_origins' => ['https://www.qodr.net/', 'http://localhost:3000'],
 
     'allowed_origins_patterns' => [],
 
